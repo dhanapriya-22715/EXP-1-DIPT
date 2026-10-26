@@ -187,3 +187,30 @@ plt.imshow(flipped_vertically_rgb)
 plt.title("Flipped Vertically")
 plt.axis("off")
 ```
+# OUTPUT :
+<img width="1422" height="407" alt="image" src="https://github.com/user-attachments/assets/523c135d-3318-4672-b43b-fca636b816ed" />
+<img width="952" height="548" alt="image" src="https://github.com/user-attachments/assets/c871c926-7d1b-4205-a4bc-47c13c1524eb" />
+<img width="901" height="512" alt="image" src="https://github.com/user-attachments/assets/e6d2b46f-13b4-4221-a39e-aaf329b781e7" />
+<img width="820" height="541" alt="image" src="https://github.com/user-attachments/assets/299910e6-4153-4137-9d71-0b3228b14526" />
+<img width="860" height="527" alt="image" src="https://github.com/user-attachments/assets/d0c50edb-0374-493e-a90e-cd89173c3ff9" />
+<img width="948" height="560" alt="image" src="https://github.com/user-attachments/assets/8a604793-e97f-4f78-b5e0-319c9b12173f" />
+<img width="868" height="562" alt="image" src="https://github.com/user-attachments/assets/1e194295-929a-408a-bce6-8ee7469f65c7" />
+<img width="905" height="560" alt="image" src="https://github.com/user-attachments/assets/c1fc379b-1f87-413d-a11f-a276c407b9c4" />
+<img width="892" height="557" alt="image" src="https://github.com/user-attachments/assets/74fb3b3c-ecf1-4aa3-b283-242d781e10e9" />
+<img width="903" height="557" alt="image" src="https://github.com/user-attachments/assets/c34e4b8a-22e2-4d29-90a1-e07790757421" />
+<img width="891" height="500" alt="image" src="https://github.com/user-attachments/assets/34021f03-1204-4328-bfc0-cca5f58a0309" />
+<img width="912" height="515" alt="image" src="https://github.com/user-attachments/assets/1147e899-1d1d-4c2f-a627-f8e4d73d3944" />
+<img width="910" height="521" alt="image" src="https://github.com/user-attachments/assets/ffabe891-9681-462a-b9b0-1b2e35cd5f77" />
+<img width="882" height="570" alt="image" src="https://github.com/user-attachments/assets/135a7cfa-d79b-4b7d-b355-ba7ec0f985f6" />
+<img width="912" height="576" alt="image" src="https://github.com/user-attachments/assets/d193f1f6-ce2c-4261-b0d5-e71741742fb1" />
+
+# RESULT :
+         Thus  the Image Handling and Pixel Transformation Using Opencv was verified successfully.
+         
+
+
+
+
+
+
+
