@@ -8,6 +8,7 @@ To perform image handling and pixel transformations using OpenCV by loading, dis
 Step1:
 
 Load an image from your local directory and display it.
+
 Step2:
 
 o Draw a line from the top-left to the bottom-right of the image.
