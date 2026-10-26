@@ -1,7 +1,7 @@
 # EXP-1-Image Handling and Pixel Transformation Using Opencv
 ## NAME : Dhanappriya S
 ## REG NO :212224230056
-## DATE : 23/10/2026
+
 # AIM:
 To perform image handling and pixel transformations using OpenCV by loading, displaying, converting, and manipulating images through pixel-level operations.
 # PROCEDURE:
