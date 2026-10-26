@@ -205,7 +205,7 @@ plt.axis("off")
 <img width="912" height="576" alt="image" src="https://github.com/user-attachments/assets/d193f1f6-ce2c-4261-b0d5-e71741742fb1" />
 
 # RESULT :
-         Thus  the Image Handling and Pixel Transformation Using Opencv was verified successfully.
+Thus  the Image Handling and Pixel Transformation Using Opencv was verified successfully.
          
 
 
